@@ -1,7 +1,6 @@
 name: the_one_sdk
 description: A plugin for integrating with The One API https://the-one-api.dev/.
-version: 0.0.2
-# homepage: https://www.example.com
+version: 0.0.3
 repository: https://github.com/tfreebern2/tim-freebern-SDK
 
 environment:

@@ -6,3 +6,5 @@ export 'src/models/book_chapter.dart';
 export 'src/models/character.dart';
 export 'src/models/movie.dart';
 export 'src/models/movie_quote.dart';
+export 'src/models/quote.dart';
+export 'src/models/quote_context.dart';
